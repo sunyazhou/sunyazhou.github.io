@@ -6,7 +6,7 @@
   <link href="https://sunyazhou.github.io/atom.xml" rel="self"/>
   
   <link href="https://sunyazhou.github.io/"/>
-  <updated>2024-10-15T04:01:13.052Z</updated>
+  <updated>2024-11-12T03:00:07.389Z</updated>
   <id>https://sunyazhou.github.io/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20241112HelloWord</title>
+    <link href="https://sunyazhou.github.io/2024/11/12/20241112HelloWord/"/>
+    <id>https://sunyazhou.github.io/2024/11/12/20241112HelloWord/</id>
+    <published>2024-11-12T03:00:07.000Z</published>
+    <updated>2024-11-12T03:00:07.389Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言">前言</h1><p>本文具有强烈的个人感情色彩,如有观看不适,请尽快关闭.本文仅作为个人学习记录使用,也欢迎在许可协议范围内转载或分享,请尊重版权并且保留原文链接,谢谢您的理解合作.如果您觉得本站对您能有帮助,您可以使用RSS方式订阅本站,感谢支持!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;本文具有强烈的个人感情色彩,如有观看不适,请尽快关闭.
+本文仅作为个人学习记录使用,也欢迎在许可协议范围内转载或分享,请尊重版权并且保留原文链接,谢谢您的理解合作.
+如果您觉得本站对您能有帮助,您可以使用RSS方式订阅本站,感谢支持!</summary>
+      
+    
+    
+    
+    <category term="iOS" scheme="https://sunyazhou.github.io/categories/iOS/"/>
+    
+    <category term="SwiftUI" scheme="https://sunyazhou.github.io/categories/iOS/SwiftUI/"/>
+    
+    
+    <category term="iOS" scheme="https://sunyazhou.github.io/tags/iOS/"/>
+    
+    <category term="SwiftUI" scheme="https://sunyazhou.github.io/tags/SwiftUI/"/>
+    
+    <category term="Swift" scheme="https://sunyazhou.github.io/tags/Swift/"/>
+    
+    <category term="Objective-C" scheme="https://sunyazhou.github.io/tags/Objective-C/"/>
+    
+    <category term="skills" scheme="https://sunyazhou.github.io/tags/skills/"/>
+    
+  </entry>
   
   <entry>
     <title>20241011Test3</title>
